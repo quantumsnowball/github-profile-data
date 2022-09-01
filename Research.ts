@@ -1,3 +1,6 @@
+import { linkToMyWork } from './common'
+
+
 const text =
   `## Research
 ![python](https://img.shields.io/badge/python-white?logo=python)
@@ -25,7 +28,7 @@ I write code to research the financial market all the time.
 
   To solve any probability problems, you can either use maths to solve it by first principal, or use programming to solve it by simulation.
 
-<div align="right"><a href="#my-work">top</a></div>
+${linkToMyWork}
 
 `
 

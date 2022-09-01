@@ -1,3 +1,6 @@
+import { linkToMyWork } from './common'
+
+
 const text =
   `## Data Science
 
@@ -14,7 +17,7 @@ I have done some data science and machine learning research projects in the past
 
   These are very common machine learning and deep learning datasets.
 
-<div align="right"><a href="#my-work">top</a></div>
+${linkToMyWork}
 
 `
 

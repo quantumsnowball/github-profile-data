@@ -1,3 +1,6 @@
+import { linkToMyWork } from './common'
+
+
 const text =
   `## dotfiles
 
@@ -15,7 +18,7 @@ I am using these configs on Linux or Mac terminal.
 - ### [.repo](https://github.com/quantumsnowball/.repo) - my other config files repo
   ![sh](https://img.shields.io/badge/sh-white?logo=shell)
 
-<div align="right"><a href="#my-work">top</a></div>
+${linkToMyWork}
 
 `
 

@@ -1,3 +1,6 @@
+import { linkToMyWork } from './common'
+
+
 const text =
   `## Apps
 
@@ -30,7 +33,7 @@ When I need a software but I can't find one really suitable, choose one which is
   This project is distributed as [Wide LIHKG](https://greasyfork.org/en/scripts/430707-wide-lihkg) on greasyfork.org.
    
 
-<div align="right"><a href="#my-work">top</a></div>
+${linkToMyWork}
 
 `
 

@@ -1,3 +1,6 @@
+import { linkToMyWork } from './common'
+
+
 const text =
   `## Apple Daily - Quantitative Research      
 ![python](https://img.shields.io/badge/python-white?logo=python)
@@ -38,7 +41,7 @@ These are all my source code covering my reserach when writing for Apple Daily H
 - ### [AppleDaily20190722](https://github.com/quantumsnowball/AppleDaily20190722)
 - ### [AppleDaily20190622](https://github.com/quantumsnowball/AppleDaily20190622)
 
-<div align="right"><a href="#my-work">top</a></div>
+${linkToMyWork}
 
 `
 

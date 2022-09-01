@@ -1,3 +1,6 @@
+import { linkToMyWork } from './common'
+
+
 const text =
   `## Web Dev
 
@@ -18,7 +21,7 @@ Web dev is easy but also can be difficult. It is easy when you have a boilerplat
 
   Sometimes you just want to code something using pure js, just to learn the basics.
 
-<div align="right"><a href="#my-work">top</a></div>
+${linkToMyWork}
 
 `
 
