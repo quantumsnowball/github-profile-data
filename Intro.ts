@@ -1,11 +1,12 @@
-const text =
-  `<div align="center">
+const heading = `<div align="center">
   <h1>
     Quantum Snowball
   </h1>
 </div>
     
-## Hi there 👋
+`
+
+export const whoami = `## Hi there 👋
 - 🔭 Ready to learn any technology to solve real life problems
 - 🔭 Worked as a quantitative research analyst and proprietary trader in Hong Kong
 - 🔭 Former freelance financial writer of Apple Daily Hong Kong
@@ -15,7 +16,9 @@ const text =
   - ⚡basically anything about programming or investment
 - 📫 How to reach me: <quantum.snowball@gmail.com>
 
-<div id="my-work" align="center">
+`
+
+const mywork = `<div id="my-work" align="center">
   <h1>
     My Work
   </h1>
@@ -41,4 +44,7 @@ A brief description about some of my work done in the past. Currently this repo 
 
 `
 
+const text = heading + whoami + mywork
+
 export default text
+
