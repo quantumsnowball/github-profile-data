@@ -1,4 +1,4 @@
-const text =
+const markdown =
   `<!--
 **quantumsnowball/QuantumSnowball** is a ✨ _special_ ✨ repository because its \`README.md\` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 `
 
-export default text
+export default markdown

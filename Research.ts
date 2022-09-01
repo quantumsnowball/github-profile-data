@@ -1,7 +1,7 @@
 import { linkToMyWork } from './common'
 
 
-const text =
+export const items =
   `## Research
 ![python](https://img.shields.io/badge/python-white?logo=python)
 ![jupyter](https://img.shields.io/badge/jupyter-white?logo=jupyter)
@@ -28,8 +28,10 @@ I write code to research the financial market all the time.
 
   To solve any probability problems, you can either use maths to solve it by first principal, or use programming to solve it by simulation.
 
-${linkToMyWork}
+`
+
+const markdown = items + `${linkToMyWork}
 
 `
 
-export default text
+export default markdown

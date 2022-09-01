@@ -1,7 +1,7 @@
 import { linkToMyWork } from './common'
 
 
-const text =
+export const items =
   `## Data Science
 
 I have done some data science and machine learning research projects in the past. Some interesting project are listed here as well.
@@ -17,8 +17,10 @@ I have done some data science and machine learning research projects in the past
 
   These are very common machine learning and deep learning datasets.
 
-${linkToMyWork}
+`
+
+const markdown = items + `${linkToMyWork}
 
 `
 
-export default text
+export default markdown

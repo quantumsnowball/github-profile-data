@@ -1,7 +1,7 @@
 import { linkToMyWork } from './common'
 
 
-const text =
+export const items =
   `## Apps
 
 When I need a software but I can't find one really suitable, choose one which is pretty close to my needs, then fork it and modify it. Well, if none of them are even close, I will build it from scratch.
@@ -33,8 +33,10 @@ When I need a software but I can't find one really suitable, choose one which is
   This project is distributed as [Wide LIHKG](https://greasyfork.org/en/scripts/430707-wide-lihkg) on greasyfork.org.
    
 
-${linkToMyWork}
+`
+
+const markdown = items + `${linkToMyWork}
 
 `
 
-export default text
+export default markdown

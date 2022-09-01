@@ -6,7 +6,7 @@ const heading = `<div align="center">
     
 `
 
-export const whoami = `## Hi there 👋
+export const items = `## Hi there 👋
 - 🔭 Ready to learn any technology to solve real life problems
 - 🔭 Worked as a quantitative research analyst and proprietary trader in Hong Kong
 - 🔭 Former freelance financial writer of Apple Daily Hong Kong
@@ -44,7 +44,7 @@ A brief description about some of my work done in the past. Currently this repo 
 
 `
 
-const text = heading + whoami + mywork
+const markdown = heading + items + mywork
 
-export default text
+export default markdown
 

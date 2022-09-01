@@ -1,7 +1,7 @@
 import { linkToMyWork } from './common'
 
 
-const text =
+export const items =
   `## Apple Daily - Quantitative Research      
 ![python](https://img.shields.io/badge/python-white?logo=python)
 ![jupyter](https://img.shields.io/badge/jupyter-white?logo=jupyter)
@@ -41,8 +41,10 @@ These are all my source code covering my reserach when writing for Apple Daily H
 - ### [AppleDaily20190722](https://github.com/quantumsnowball/AppleDaily20190722)
 - ### [AppleDaily20190622](https://github.com/quantumsnowball/AppleDaily20190622)
 
-${linkToMyWork}
+`
+
+const markdown = items + `${linkToMyWork}
 
 `
 
-export default text
+export default markdown

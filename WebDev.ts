@@ -1,7 +1,7 @@
 import { linkToMyWork } from './common'
 
 
-const text =
+export const items =
   `## Web Dev
 
 Web dev is easy but also can be difficult. It is easy when you have a boilerplate to start with, but can be difficult when you need to build everything from scratch. I have built some starter projects, while trying to include some most common web dev technologies into them.
@@ -21,8 +21,10 @@ Web dev is easy but also can be difficult. It is easy when you have a boilerplat
 
   Sometimes you just want to code something using pure js, just to learn the basics.
 
-${linkToMyWork}
+`
+
+const markdown = items + `${linkToMyWork}
 
 `
 
-export default text
+export default markdown

@@ -1,7 +1,7 @@
 import { linkToMyWork } from './common'
 
 
-const text =
+export const items =
   `## dotfiles
 
 I am using these configs on Linux or Mac terminal. 
@@ -18,8 +18,10 @@ I am using these configs on Linux or Mac terminal.
 - ### [.repo](https://github.com/quantumsnowball/.repo) - my other config files repo
   ![sh](https://img.shields.io/badge/sh-white?logo=shell)
 
-${linkToMyWork}
+`
+
+const markdown = items + `${linkToMyWork}
 
 `
 
-export default text
+export default markdown
