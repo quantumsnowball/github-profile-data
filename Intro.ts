@@ -6,7 +6,13 @@ const heading = `<div align="center">
     
 `
 
-export const items = `## Hi there 👋
+export const items = `
+[![Repositories](https://img.shields.io/badge/Repositories-black?style=for-the-badge&logo=github)](https://github.com/quantumsnowball)
+[![Homepage](https://img.shields.io/badge/Homepage-229922?style=for-the-badge&logo=github)](https://quantumsnowball.github.io)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.quantumsnowball.ml)
+[![Email](https://img.shields.io/badge/Email-navy?style=for-the-badge&logo=gmail)](mailto:quantumsnowball@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-dddddd?style=for-the-badge&logo=twitter)](https://twitter.com/QuantumSnowball)
+## Hi there 👋
 - 🔭 Ready to learn any technology to solve real life problems
 - 🔭 Worked as a quantitative research analyst and proprietary trader in Hong Kong
 - 🔭 Former freelance financial writer of Apple Daily Hong Kong

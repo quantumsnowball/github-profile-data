@@ -7,7 +7,7 @@ export const items =
 I have done some data science and machine learning research projects in the past. Some interesting project are listed here as well.
 
 - ### [toy-openai-gym-collections](https://github.com/quantumsnowball/toy-openai-gym-collections) - all about  deep reinforcement learning
-  ![pytorch](https://img.shields.io/badge/pytorch-white?logo=pytorch) ![openai](https://img.shields.io/badge/neovim-white?logo=openai&logoColor=black)  ![numpy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)
+  ![pytorch](https://img.shields.io/badge/pytorch-white?logo=pytorch) ![openai](https://img.shields.io/badge/openai-white?logo=openai&logoColor=black)  ![numpy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)
 
   Try to use use deep reinforcement learning models to play computer games! It was not easy at all.
 
