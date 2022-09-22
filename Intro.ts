@@ -12,6 +12,7 @@ export const items = `
 [![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.quantumsnowball.ml)
 [![Email](https://img.shields.io/badge/Email-navy?style=for-the-badge&logo=gmail)](mailto:quantumsnowball@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-dddddd?style=for-the-badge&logo=twitter)](https://twitter.com/QuantumSnowball)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/quantum-snowball-66441a251)
 ## Hi there 👋
 - 🔭 Ready to learn any technology to solve real life problems
 - 🔭 Worked as a quantitative research analyst and proprietary trader in Hong Kong
