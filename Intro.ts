@@ -13,6 +13,7 @@ export const items = `
 [![Email](https://img.shields.io/badge/Email-navy?style=for-the-badge&logo=gmail)](mailto:quantumsnowball@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-dddddd?style=for-the-badge&logo=twitter)](https://twitter.com/QuantumSnowball)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/quantum-snowball-66441a251)
+[![Leetcode](https://img.shields.io/badge/Leetcode-ffe2c7?style=for-the-badge&logo=leetcode)](https://leetcode.com/quantumsnowball/)
 ## Hi there 👋
 - 🔭 Ready to learn any technology to solve real life problems
 - 🔭 Worked as a quantitative research analyst and proprietary trader in Hong Kong
