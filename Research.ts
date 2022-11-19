@@ -10,6 +10,13 @@ export const items =
 
 I write code to research the financial market all the time.
 
+- ### [trading-lab](https://nbviewer.org/github/quantumsnowball/trading-lab)
+  A Jupyter notebook collection of strategy backtest results using [btbox](https://github.com/quantumsnowball/btbox). View these notebooks using [nbviewer.org](https://nbviewer.org/github/quantumsnowball/trading-lab). Or visit the [repository](https://github.com/quantumsnowball/trading-lab) for source code. 
+
+  - ### [moving-average](https://nbviewer.org/github/quantumsnowball/trading-lab/tree/master/indicators/moving-average/)
+    Some common strategies based on a rolling window and moving average.
+      - ### [sma-crossover](https://nbviewer.org/github/quantumsnowball/trading-lab/blob/master/indicators/moving-average/sma-crossover.ipynb)
+
 - ### [hong-kong-interbank-liquidity-plot](https://github.com/quantumsnowball/hong-kong-interbank-liquidity-plot)
   Do you think the USD-HKD peg is gonna hold? Here is an indicator you need to pay attention to.
 
