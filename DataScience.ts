@@ -19,6 +19,10 @@ I have done some data science and machine learning research projects in the past
 
 - ### [marble-drawing-scam-analysis](https://github.com/quantumsnowball/marble-drawing-scam-analysis)
 
+  ![python](https://img.shields.io/badge/python-white?logo=python)
+  ![jupyter](https://img.shields.io/badge/jupyter-white?logo=jupyter)
+  ![pandas](https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=darkblue)
+
   To solve any probability problems, you can either use maths to solve it by first principal, or use programming to solve it by simulation.
 
 `
