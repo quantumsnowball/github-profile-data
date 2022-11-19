@@ -6,6 +6,15 @@ export const items =
 
 When I need a software but I can't find one really suitable, choose one which is pretty close to my needs, then fork it and modify it. Well, if none of them are even close, I will build it from scratch.
 
+- ### [btbox](https://github.com/quantumsnowball/btbox/tree/dev) - a simple and easy to use trading strategy backtesting library written in Python
+  ![python](https://img.shields.io/badge/python-white?logo=python)
+  ![numpy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)
+  ![pandas](https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=darkblue)
+  ![jupyter](https://img.shields.io/badge/jupyter-white?logo=jupyter)
+  ![plotly](https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=darkblue)
+
+  When you have a trading idea in your mind, but you are not sure if it is going to work? Most of the time you want to backtest your idea first using historical market data before risking your real money. Usually this can be done using a spreadsheet, but soon you find that spreadsheet only works for simple strategies. Also you will need a robust way to measure 'how-good' a strategy by calculate its performance metrics, such as \`Sharpe Ratio\` or \`Max Drawdown\`. Well, you have come to the right place! \`btbox\` is here to provide a robust solution for strategy backtesting. It is most suitable to use in a Jupyter notebook. Most usage cases and results can be found in [trading-lab](https://nbviewer.org/github/quantumsnowball/trading-lab). Or go to the [tests](https://github.com/quantumsnowball/btbox/tree/dev/tests) folder of the [dev](https://github.com/quantumsnowball/btbox/tree/dev) branch for more reference. This library is still under active development and the API may subject to changes.
+
 - ### [Tabman](https://github.com/quantumsnowball/telescope-tabman.nvim) - a telescope.nvim plugin 
   ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)
   ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
