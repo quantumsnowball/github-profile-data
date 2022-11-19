@@ -17,6 +17,10 @@ I have done some data science and machine learning research projects in the past
 
   These are very common machine learning and deep learning datasets.
 
+- ### [marble-drawing-scam-analysis](https://github.com/quantumsnowball/marble-drawing-scam-analysis)
+
+  To solve any probability problems, you can either use maths to solve it by first principal, or use programming to solve it by simulation.
+
 `
 
 const markdown = items + `${linkToMyWork}
