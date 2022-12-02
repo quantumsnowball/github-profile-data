@@ -6,6 +6,15 @@ export const items =
 
 Web dev is easy but also can be difficult. It is easy when you have a boilerplate to start with, but can be difficult when you need to build everything from scratch. I have built some starter projects, while trying to include some most common web dev technologies into them.
 
+- ### [Bayes](https://github.com/quantumsnowball/bayes-domain) - a probability playground showcasing the Bayes Theorem
+  ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript)
+  ![react](https://img.shields.io/badge/react-white?logo=react)
+  ![nextjs](https://img.shields.io/badge/next.js-white?logo=next.js&logoColor=black)
+  ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
+  ![mui](https://img.shields.io/badge/mui-white?logo=mui)
+
+  [Bayes](https://bayes.quantumsnowball.ml) is a simple interactive web app aim to provide a playground for easy understanding of the Bayes Theorem. It is now hosting on [bayes.quantumsnowball.ml](https://bayes.quantumsnowball.ml) as a progressive web app. You can edit, save and restore variety of different hypothesis and evidence combinations to come up to a posterior probability. Please feel free to install it on your phone as a handy assistant for solving probability problem.
+
 - ### [Quotes](https://github.com/quantumsnowball/quotes.quantumsnowball) - a beautiful mobile-friendly react app, fetching famous quotes by celebrities 
   ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript)
   ![react](https://img.shields.io/badge/react-white?logo=react)
