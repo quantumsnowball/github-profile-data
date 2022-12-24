@@ -6,6 +6,15 @@ export const items =
 
 Web dev is easy but also can be difficult. It is easy when you have a boilerplate to start with, but can be difficult when you need to build everything from scratch. I have built some starter projects, while trying to include some most common web dev technologies into them.
 
+- ### [Furigana](https://github.com/quantumsnowball/furigana-domain) - a handy Japanese learning and translation app, featuring Furigana, Romaji and English/Chinese translation in a single interface
+  ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript)
+  ![nextjs](https://img.shields.io/badge/next.js-white?logo=next.js&logoColor=black)
+  ![react](https://img.shields.io/badge/react-white?logo=react)
+  ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
+  ![mui](https://img.shields.io/badge/mui-white?logo=mui)
+
+  [Furigana](https://furigana.quantumsnowball.ml) is an easy to use interactive web app aims to help you learn Japanese. It is currently hosting at [furigana.quantumsnowball.ml](https://furigana.quantumsnowball.ml) as a PWA. When you copy and paste a Japanese text, the app should show the most essential parts to read, pronounce and understand the language. When you edit the source, the app will show the updated Furigana, Romaji together with English/Chinese translation. You can also save the source and translation into favorites, then you can restore to view them later. Feel free to build your own Japanese learning notebook by saving common phrases and sentences to favorite, and backup/restore your notebook by the import/export feature. Happy learning Japanese!
+
 - ### [Bayes](https://github.com/quantumsnowball/bayes-domain) - a probability playground showcasing the Bayes Theorem
   ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript)
   ![react](https://img.shields.io/badge/react-white?logo=react)
