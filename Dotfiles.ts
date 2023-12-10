@@ -17,7 +17,7 @@ I am using these configs on Linux or Mac terminal.
 - ### [zshrc](https://github.com/quantumsnowball/zshrc) - my zshrc config repo
   ![sh](https://img.shields.io/badge/sh-white?logo=shell)
 
-- ### [.repo](https://github.com/quantumsnowball/.repo) - my other config files repo
+- ### [settings](https://github.com/quantumsnowball/settings) - my other config files repo
   ![sh](https://img.shields.io/badge/sh-white?logo=shell)
 
 `
