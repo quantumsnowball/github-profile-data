@@ -9,7 +9,7 @@ const heading = `<div align="center">
 export const items = `
 [![Repositories](https://img.shields.io/badge/Repositories-black?style=for-the-badge&logo=github)](https://github.com/quantumsnowball)
 [![Homepage](https://img.shields.io/badge/Homepage-229922?style=for-the-badge&logo=github)](https://quantumsnowball.github.io)
-[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.quantumsnowball.ml)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://quantumsnowball.hashnode.dev)
 [![Email](https://img.shields.io/badge/Email-navy?style=for-the-badge&logo=gmail)](mailto:quantumsnowball@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-dddddd?style=for-the-badge&logo=twitter)](https://twitter.com/QuantumSnowball)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/quantum-snowball-66441a251)
