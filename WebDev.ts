@@ -30,7 +30,7 @@ Web dev is easy but also can be difficult. It is easy when you have a boilerplat
   ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
   ![mui](https://img.shields.io/badge/mui-white?logo=mui)
   
-  This project has been built and hosting at [quotes.quantumsnowball.ml](https://quotes.quantumsnowball.ml/). It is mobile-friendly, can be installed as a PWA using mobile Chrome browser.
+  This project has been built and hosting at [quotes.quantumsnowball.vercel.app](https://quotes.quantumsnowball.vercel.app/). It is mobile-friendly, can be installed as a PWA using mobile Chrome browser.
 
 - ### [Todos](https://github.com/quantumsnowball/todos-domain) - a todos-list app with login and OAuth2 authentication based on JWT
   ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript)
