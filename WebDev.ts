@@ -22,7 +22,7 @@ Web dev is easy but also can be difficult. It is easy when you have a boilerplat
   ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
   ![mui](https://img.shields.io/badge/mui-white?logo=mui)
 
-  [Bayes](https://bayes.quantumsnowball.ml) is a simple interactive web app aim to provide a playground for easy understanding of the Bayes Theorem. It is now hosting on [bayes.quantumsnowball.ml](https://bayes.quantumsnowball.ml) as a progressive web app. You can edit, save and restore variety of different hypothesis and evidence combinations to come up to a posterior probability. Please feel free to install it on your phone as a handy assistant for solving probability problem.
+  [Bayes](https://bayes.quantumsnowball.vercel.app) is a simple interactive web app aim to provide a playground for easy understanding of the Bayes Theorem. It is now hosting on [bayes.quantumsnowball.vercel.app](https://bayes.quantumsnowball.vercel.app) as a progressive web app. You can edit, save and restore variety of different hypothesis and evidence combinations to come up to a posterior probability. Please feel free to install it on your phone as a handy assistant for solving probability problem.
 
 - ### [Quotes](https://github.com/quantumsnowball/quotes.quantumsnowball) - a beautiful mobile-friendly react app, fetching famous quotes by celebrities 
   ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript)
